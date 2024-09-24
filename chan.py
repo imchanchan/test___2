@@ -1,7 +1,5 @@
 print("hi")
 
-print("hello world")
+print("hello")
 
-name = input("Input your name: ")
-
-print(name)
+print("chanchanchan")
